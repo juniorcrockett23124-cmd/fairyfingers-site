@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://juniorcrockett23124-cmd.github.io/fairyfingers-site/sitemap.xml
